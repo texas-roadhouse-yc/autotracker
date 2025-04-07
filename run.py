@@ -11,7 +11,7 @@ deleted_df = pd.read_csv('./data/deleted_sampled_dataset.csv')
 print("Rtree building...")
 from astral import LocationInfo
 
-num_samples = 10000
+num_samples = 1000
 positive_samples = num_samples // 2
 ordered_traj = [x for x in range(positive_samples)]
 negative_traj = [x for x in range(positive_samples, num_samples)]
