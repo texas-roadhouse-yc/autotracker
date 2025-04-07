@@ -1,0 +1,5 @@
+astral==3.2
+deepdiff==5.7.0
+matplotlib==2.1.1
+numpy==1.13.3
+pandas==0.22.0
