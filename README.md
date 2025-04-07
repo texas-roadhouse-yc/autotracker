@@ -43,6 +43,9 @@ project-root/
 - **ATS with Time Noise (ATS-time):**  
   A synthetic dataset created by introducing noise into the timestamps of ATS trajectories, enabling the study of effects such as lighting variations related to time.
 
+> ⚠️ Due to file size limitations on GitHub, only a portion of the dataset is included in this repository.  
+> The **complete dataset** is available via OneDrive: [OneDrive Link Here]
+
 ---
 
 ## 🚀 Run Example
