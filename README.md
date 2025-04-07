@@ -20,7 +20,7 @@ Key dependencies include:
 
 ## 📦 Dataset
 
-This project uses the **[Aalborg Traffic Sign]** dataset.
+This project uses the **Aalborg Traffic Sign (ATS)** dataset.
 
 Directory structure:
 
